@@ -15,7 +15,7 @@ Fusion Aruco-Heading mit integrierter Winkelgeschwindigkeit
 
 4-Diverse Navigationsmethoden recherchieren und möglichst drei testen
 
-Meine Gruppe hat sich mit der Lageabschaetzung beschäftigt:
+Meine Gruppe hat sich mit der Lageabschaetzung beschäftigt und meine Aufgabe war, den Winkel mit der Kamera zu bestimmen und die mit dem Mikroprozessor  berechneten Daten als csv-Datei zu speichern damit wir die Ergebnisse visualisieren können :
 
 1. Gyroskop und Winkelgeschwindigkeit
 Ein Gyroskop misst die Winkelgeschwindigkeit, also die Geschwindigkeit, mit der sich das Fahrzeug um eine oder mehrere Achsen dreht. In einem autonomen Modellfahrzeug ist dies wichtig, um die Ausrichtung (Lage) des Fahrzeugs im Raum zu kennen. Diese Winkelgeschwindigkeit wird in der Regel kontinuierlich gemessen.
